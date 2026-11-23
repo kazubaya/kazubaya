@@ -25,55 +25,41 @@ I also use Python and Jupyter for machine learning and NLP coursework. My academ
 
 ### Educational e-portfolio platform
 
-I built and deployed two versions of an e-portfolio platform for professional learning documentation. Both include a content management system, structured page content, media uploads, tenant-aware data handling, validation, and automated tests.
+This is a multi-tenant e-portfolio and content management web platform with two live deployments. The goal was to give educators and professionals an accessible way to document, structure, and publish their career milestones and learning materials online.
 
-The platform uses React, Vite, Express, Prisma, MySQL, JWT, and Multer. The source code is private, but both implementations are available online: [IFA Portfolio](https://project-ifa.vercel.app) and [ENCI Portfolio](https://porto-enci-tawny.vercel.app).
+I built the full stack using React, Vite, Express, Prisma, and MySQL. My work covered JWT authentication, dynamic content management, media uploads with Multer, data validation, and automated tests. Both deployments are accessible online, while the codebase remains private: [IFA Portfolio](https://project-ifa.vercel.app) and [ENCI Portfolio](https://porto-enci-tawny.vercel.app).
 
 ### WhatsApp personal finance automation
 
-I built a private workflow for recording personal transactions from WhatsApp messages, images, and PDF receipts. It uses TypeScript, Cloud Run, Firestore, Cloud Tasks, Google Sheets, Google Drive, and Gemini.
+This is a serverless automation service that turns informal WhatsApp messages into structured expense records. The goal was to eliminate manual bookkeeping by extracting data directly from daily chat notes, receipt photos, and PDF invoices.
 
-The project handles deterministic validation, duplicate-safe processing, review queues, scheduled synchronization, HMAC webhook verification, OIDC, and automated tests. Its source remains private.
+I built the pipeline in TypeScript on Google Cloud Run, integrating Firestore, Cloud Tasks, Google Sheets, Google Drive, and Gemini. I implemented HMAC webhook verification, duplicate-safe processing, review queues for edge cases, and automated tests. The codebase is private.
 
 ### Financial product UX prototype
 
-I created a mobile-first prototype for a digital gold-savings journey using semantic HTML, CSS, and vanilla JavaScript. It includes keyboard-accessible interactions, form validation, responsive layouts, and explicit states for each step of the application flow.
+This is a mobile-first web prototype that simulates an end-to-end digital gold-savings account journey. The goal was to test how a multi-step financial onboarding flow could feel intuitive and friction-free before committing to backend development.
 
-This is a private simulation and not an official banking product.
+I designed and implemented the interface with semantic HTML, modern CSS, and vanilla JavaScript. I focused on keyboard accessibility, immediate input validation, responsive screens, and clear state transitions between steps. This is a private concept simulation and not an official banking product.
 
 ### Music mood classification
 
-For a machine learning course, I used Python, Jupyter, pandas, and scikit-learn to classify music mood. The analysis follows CRISP-DM and compares models while keeping label creation separate from prediction features to prevent data leakage.
+This is a machine learning study focused on binary music mood classification. The goal was to predict whether a song carries a positive or negative mood from its audio attributes while avoiding subtle data leakage between splits.
 
-The evaluation is documented, but the final integrity review is still in progress.
+Using Python, Jupyter, pandas, and scikit-learn, I followed the CRISP-DM methodology. I engineered audio features, kept label derivation strictly separate from model inputs, trained baseline and tuned classifiers, and evaluated the models with cross-validation and ROC metrics.
 
 ## Academic projects
 
 ### Business intelligence strategy for ITKPDN
 
-I co-authored a research project on organizational readiness for Business Intelligence adoption in Indonesia's Ministry of Home Affairs data environment. The study examined how data governance, organizational capability, and workforce readiness affect BI implementation planning.
+This is a research project proposing an enterprise Business Intelligence strategy for the ITKPDN data environment at Indonesia's Ministry of Home Affairs. The goal was to evaluate organizational preparedness and design a practical roadmap for adopting automated analytics across regional data.
 
-Status: course research paper; not presented as a published article.
+As a co-author in a graduate course research project, I assessed institutional readiness across data governance, infrastructure capabilities, and human resources. I then helped translate those findings into prioritized recommendations for phased BI deployment.
 
 ### HR information system for public procurement
 
-I worked in a team to analyze and design a human-resource management information system for Indonesia's public procurement environment, using an LKPP case. The project covered the system request, feasibility analysis, requirements, project planning, and system design.
+This is a systems analysis and design project for an HR management information system tailored to public procurement personnel. The goal was to model how an organization can systematically track certifications, competencies, and talent assignments, using Indonesia's LKPP as a case study.
 
-Status: academic system analysis and design project.
-
-### IT project handover
-
-I am developing a qualitative case study on IT project handover from the developer's perspective. The analysis combines deductive and inductive thematic coding with member checking and document triangulation.
-
-Status: ongoing research.
-
-### Mental health discourse on social media
-
-I am also working on a systematic literature review of public responses to mental health issues on social media. The workflow covers database searching, screening, quality assessment, data extraction, and synthesis.
-
-Status: ongoing review.
-
-Other coursework includes data management and full-stack engineering. Research data, participant material, and active manuscripts remain private.
+Working in a team, I contributed to the initial system request, feasibility analysis, user requirements specification, process modeling, and system architecture. This was an academic case study, not an official LKPP system.
 
 ## Tech I use
 
