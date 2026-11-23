@@ -47,15 +47,33 @@ For a machine learning course, I used Python, Jupyter, pandas, and scikit-learn 
 
 The evaluation is documented, but the final integrity review is still in progress.
 
-## Academic work
+## Academic projects
 
-My current academic work includes:
+### Business intelligence strategy for ITKPDN
 
-- a qualitative case study on IT project handover, using deductive and inductive thematic analysis, member checking, and document triangulation;
-- a systematic literature review of public responses to mental health issues on social media; and
-- writing and evidence synthesis on IT governance and digital public services.
+I co-authored a research project on organizational readiness for Business Intelligence adoption in Indonesia's Ministry of Home Affairs data environment. The study examined how data governance, organizational capability, and workforce readiness affect BI implementation planning.
 
-Only high-level descriptions are public. Research data, participant material, and active manuscripts remain private.
+Status: course research paper; not presented as a published article.
+
+### HR information system for public procurement
+
+I worked in a team to analyze and design a human-resource management information system for Indonesia's public procurement environment, using an LKPP case. The project covered the system request, feasibility analysis, requirements, project planning, and system design.
+
+Status: academic system analysis and design project.
+
+### IT project handover
+
+I am developing a qualitative case study on IT project handover from the developer's perspective. The analysis combines deductive and inductive thematic coding with member checking and document triangulation.
+
+Status: ongoing research.
+
+### Mental health discourse on social media
+
+I am also working on a systematic literature review of public responses to mental health issues on social media. The workflow covers database searching, screening, quality assessment, data extraction, and synthesis.
+
+Status: ongoing review.
+
+Other coursework includes data management and full-stack engineering. Research data, participant material, and active manuscripts remain private.
 
 ## Tech I use
 
