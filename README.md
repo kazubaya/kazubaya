@@ -21,6 +21,14 @@ Most of my software work uses React and Node.js, with APIs, databases, authentic
 
 I also use Python and Jupyter for machine learning and NLP coursework. My academic workflow combines Zotero, Obsidian, and OpenCode to keep sources, analysis, revisions, and supporting evidence traceable.
 
+## AI routing activity
+
+<div align="center">
+
+![AI Routing Activity](assets/omniroute-overview.svg)
+
+</div>
+
 ## Selected work
 
 ### Educational e-portfolio platform
