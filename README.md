@@ -1,77 +1,63 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:0F766E,100:22C55E&height=190&section=header&text=Adib%20R.%20Raharjo&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Technology%20%26%20Product%20Builder&descAlignY=59&descSize=18)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:0F766E,100:22C55E&height=190&section=header&text=Adib%20R.%20Raharjo&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Technology%20and%20Product%20Builder&descAlignY=59&descSize=18)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=14B8A6&center=true&vCenter=true&width=760&lines=Full-Stack+Web+%C2%B7+Workflow+Automation;Applied+AI+%C2%B7+Data+%C2%B7+Research+Engineering;Turning+complex+workflows+into+useful+digital+products)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adib-raushanfikr-raharjo-b566101b6/)
 [![Email](https://img.shields.io/badge/Email-Let's_talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adib.raharjo12@gmail.com)
-![Freelance](https://img.shields.io/badge/Selected_Freelance-Open-16A34A?style=for-the-badge)
 
 </div>
 
-## Hello
+## About me
 
-I build digital products that connect **full-stack engineering, workflow automation, applied AI, and evidence-driven research**.
+I'm studying for a Master of Information Technology at Universitas Indonesia while completing the Officer Development Program at BSN. I enjoy turning complicated processes into web applications and practical automation tools.
 
-- 🎓 Master of Information Technology student at **Universitas Indonesia**
-- 💼 Currently an **Officer Development Program participant at BSN**
-- 🧩 Interested in product engineering, digital transformation, and reliable research workflows
-- 🤝 Open to selected freelance projects and multidisciplinary collaborations
+My recent work covers full-stack development, cloud workflows, applied machine learning, and tools for academic research. I'm open to selected freelance projects and collaborations.
 
-## What I Build
+## What I work on
 
-| Area | Focus |
-|---|---|
-| **Full-Stack Products** | Responsive web applications, CMS workflows, APIs, databases, authentication, uploads, testing, and deployment |
-| **Automation & Cloud** | Event-driven workflows, Google Cloud services, messaging integrations, document processing, and operational safeguards |
-| **Applied AI & Data** | Reproducible notebooks, classical machine learning, NLP workflows, multimodal extraction, and leakage-aware evaluation |
-| **Research Engineering** | Traceable academic workflows, systematic reviews, qualitative analysis, citation management, and document automation |
+Most of my software work uses React and Node.js, with APIs, databases, authentication, content management, file uploads, tests, and deployment included. For automation projects, I work with Google Cloud and Google Workspace APIs.
 
-## Selected Work
+I also use Python and Jupyter for machine learning and NLP coursework. My academic workflow combines Zotero, Obsidian, and OpenCode to keep sources, analysis, revisions, and supporting evidence traceable.
 
-### Educational E-Portfolio Platform
+## Selected work
 
-Two live implementations of a full-stack portfolio and content-management platform for professional learning documentation.
+### Educational e-portfolio platform
 
-- **Built with:** React, Vite, Express, Prisma, MySQL, JWT, Multer
-- **Engineering work:** CMS architecture, structured content, media uploads, tenant-aware data handling, validation, automated tests, and production deployment
-- **Source:** Private
-- **Previews:** [IFA Portfolio](https://project-ifa.vercel.app) · [ENCI Portfolio](https://porto-enci-tawny.vercel.app)
+I built and deployed two versions of an e-portfolio platform for professional learning documentation. Both include a content management system, structured page content, media uploads, tenant-aware data handling, validation, and automated tests.
 
-### WhatsApp Personal Finance Automation
+The platform uses React, Vite, Express, Prisma, MySQL, JWT, and Multer. The source code is private, but both implementations are available online: [IFA Portfolio](https://project-ifa.vercel.app) and [ENCI Portfolio](https://porto-enci-tawny.vercel.app).
 
-A private, production-oriented workflow for recording personal transactions from WhatsApp text, images, and PDF receipts.
+### WhatsApp personal finance automation
 
-- **Built with:** TypeScript, Google Cloud Run, Firestore, Cloud Tasks, Google Sheets, Google Drive, Gemini
-- **Engineering work:** deterministic validation, idempotent processing, review queues, scheduled synchronization, HMAC webhook verification, OIDC, and automated tests
-- **Source:** Private case study
+I built a private workflow for recording personal transactions from WhatsApp messages, images, and PDF receipts. It uses TypeScript, Cloud Run, Firestore, Cloud Tasks, Google Sheets, Google Drive, and Gemini.
 
-### Financial Product UX Prototype
+The project handles deterministic validation, duplicate-safe processing, review queues, scheduled synchronization, HMAC webhook verification, OIDC, and automated tests. Its source remains private.
 
-A mobile-first interactive prototype that explores a digital gold-savings application journey.
+### Financial product UX prototype
 
-- **Built with:** semantic HTML, CSS, and vanilla JavaScript
-- **Engineering work:** accessible interactions, form validation, explicit application states, responsive layouts, and end-to-end user-flow simulation
-- **Status:** Private concept prototype; simulation only, not an official banking product
+I created a mobile-first prototype for a digital gold-savings journey using semantic HTML, CSS, and vanilla JavaScript. It includes keyboard-accessible interactions, form validation, responsive layouts, and explicit states for each step of the application flow.
 
-### Music Mood Classification
+This is a private simulation and not an official banking product.
 
-A reproducible machine-learning coursework project for binary music-mood classification.
+### Music mood classification
 
-- **Built with:** Python, Jupyter, pandas, scikit-learn
-- **Approach:** CRISP-DM, train-derived labels, leakage prevention, model comparison, and documented evaluation
-- **Status:** Coursework; final integrity review in progress
+For a machine learning course, I used Python, Jupyter, pandas, and scikit-learn to classify music mood. The analysis follows CRISP-DM and compares models while keeping label creation separate from prediction features to prevent data leakage.
 
-## Selected Academic Work
+The evaluation is documented, but the final integrity review is still in progress.
 
-- **IT Project Handover:** an ongoing qualitative case study using deductive and inductive thematic analysis, member checking, and document triangulation
-- **Mental Health Discourse on Social Media:** an ongoing systematic literature review with protocol-driven search, screening, quality assessment, and synthesis
-- **IT Governance and Public Services:** academic writing and evidence synthesis on governance, evaluation, and public-sector digital services
+## Academic work
 
-> Academic projects are presented as high-level overviews. Research data, participant material, and active manuscripts remain private.
+My current academic work includes:
 
-## Technology
+- a qualitative case study on IT project handover, using deductive and inductive thematic analysis, member checking, and document triangulation;
+- a systematic literature review of public responses to mental health issues on social media; and
+- writing and evidence synthesis on IT governance and digital public services.
+
+Only high-level descriptions are public. Research data, participant material, and active manuscripts remain private.
+
+## Tech I use
 
 <div align="center">
 
@@ -79,17 +65,17 @@ A reproducible machine-learning coursework project for binary music-mood classif
 
 </div>
 
-**Also working with:** Vite · REST APIs · Firestore · Google Workspace APIs · Jupyter · Zotero · Obsidian · OpenCode · Remotion
+Other tools I use include Vite, REST APIs, Firestore, Google Workspace APIs, Jupyter, Zotero, Obsidian, OpenCode, and Remotion.
 
 ## Languages
 
-- 🇮🇩 Indonesian — active
-- 🇬🇧 English — active
-- 🇸🇦 Arabic — passive
+- Indonesian: active
+- English: active
+- Arabic: passive
 
-## Let's Connect
+## Contact
 
-If you are working on a web product, workflow automation, applied data project, or research tooling challenge, feel free to reach out:
+I'm available for selected freelance work in web development, automation, applied data, and research tooling.
 
 - [LinkedIn](https://www.linkedin.com/in/adib-raushanfikr-raharjo-b566101b6/)
 - [adib.raharjo12@gmail.com](mailto:adib.raharjo12@gmail.com)
